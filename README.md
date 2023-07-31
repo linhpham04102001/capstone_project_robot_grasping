@@ -6,17 +6,17 @@ Clone this repo
 git clone
 cd capstone_project_robot_grasping/
 ````
-Create a environment, and install all required library, we used anaconda to create environment
+Creating a environment, and install all required library, we used anaconda to create environment
 ````bash
 conda create -n myenv python=3.10
 conda activate myenv
 pip install requirement.txt
 ````
-running this command for using api endpoint
+Running this command for using api endpoint
 ````bash
 python my_cvu_api.py
 ````
-Send the request with key-value pairs to the api endpoint
+Sending the request with key-value pairs to the api endpoint
 ````bash
 curl -X POST -H "Content-Type: multipart/form-data" \
 			 -F "api_folder=<path/to/the/folder/which/api/will/run/in/this>" \
