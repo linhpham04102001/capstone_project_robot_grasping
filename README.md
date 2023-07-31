@@ -3,7 +3,7 @@ This is my capstone project of my team and ITSC Company. This project aims to ap
 # Getting Started
 Clone this repo
 ````bash
-git clone
+git clone https://github.com/linhpham04102001/capstone_project_robot_grasping.git
 cd capstone_project_robot_grasping/
 ````
 Creating a environment, and install all required library, we used anaconda to create environment
