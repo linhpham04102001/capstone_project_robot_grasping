@@ -1,0 +1,11 @@
+__pycache__
+Output
+Stream_camera
+.vscode
+Socket
+runs
+request.sh
+Log
+Dataset
+setup.sh
+Template
